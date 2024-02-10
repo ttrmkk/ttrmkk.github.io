@@ -1,0 +1,12 @@
+{
+    "description": "github pages",
+    "repo": "https://github.com/ttrmkk/ttrmkk.github.io",
+    "owner": {
+        "username": "ttrmkk",
+        "email": "nebulaedits.contact@gmail.com",
+        "twitter": "ttrademark"
+    },
+    "record": {
+        "CNAME": "ttrmkk.github.io"
+    }
+} 
